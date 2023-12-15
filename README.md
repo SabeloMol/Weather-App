@@ -50,7 +50,7 @@
 
       <footer>
         This project was coded by
-        <a href="https://github.com/Sabelo/" target="_blank"> Matt Delac</a>,
+        <a href="https://github.com/Sabelo/" target="_blank"> Sabelo Molepo</a>,
         is
         <a href="https://github.com/Sabelo/WeatherApp" target="_blank"
           >open-sourced on GitHub</a
